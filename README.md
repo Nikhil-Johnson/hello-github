@@ -1,2 +1,2 @@
-# hello-github
+# my-website
 My first github project
